@@ -48,6 +48,11 @@ Focus is on **unscheduled events** and **per-site battery degradation** — thin
 ---
 
 ### Project Structure
+## Architecture
+![Simple Architecture](docs/architecture-simple.png)
+![Detailed Architecture](docs/architecture-detailed.png)
+
+Full details: [docs/architecture.md](docs/architecture.md) | Full proposal: [docs/proposal.md](docs/proposal.md)
 
 qhawe-ai-ran/
 ├── docs/               # Architecture & detailed plans
